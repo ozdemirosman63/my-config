@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Webhook lanet çözüldüüfd APIs "
+  message: "Welcome to EazyBank accounts related Webhookfd lanet çözüldüüfd APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
